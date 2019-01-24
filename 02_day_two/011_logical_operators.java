@@ -97,7 +97,7 @@ class LogicalOperators {
 			3. Which of these data types holds numbers from -32,768 to 
 			32,767?
 
-			- C. short
+			- C. short 
 		*/ 
 	}
 }
