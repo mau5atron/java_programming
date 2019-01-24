@@ -75,6 +75,9 @@ class literals {
 		int jackpot = 3500000;
 		int jackpot = 3_500_000;
 
-
-	}
+		/*
+			Both examples equal 3,500,000, which is easier to read. Java
+			compiler ignores the underscores.
+		*/ 
+	}	
 }
