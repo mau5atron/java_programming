@@ -8,5 +8,22 @@ class ExpressionsOperators {
 		int x = 3; 
 		int y = x;
 		int z = x * y;
+
+		/*
+			All three of these statements can be considered expressions; they
+			convey values that can be assigned to variables. 
+
+			Expressions can be any combination of variables, literals, 
+			operators. They also can be method calls because methods send back 
+			a value to the object or class that called the method.
+		*/ 
+
+		// Arithmetic: 
+
+		+
+		- 
+		* 
+		/ 
+		%
 	}
 }
